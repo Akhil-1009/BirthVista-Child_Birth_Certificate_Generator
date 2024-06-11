@@ -4,8 +4,8 @@
 	<div class="row">
 		<div class="col-md-3 text-info">
 			<h3>
-				<img src="images/birth.jpg" width="40" height="40"> Birth
-				Certificate
+				<img src="images/child.png" width="40" height="40"> Birth
+				Vista    
 			</h3>
 		</div>
 	</div>

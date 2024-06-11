@@ -175,9 +175,8 @@ h2, h4{
 				document.write(new Date().getFullYear());
 			</script>
 			All Right Reserved <span style="color: brown">|</span><span
-				style="color: #006400">This website is made with <i
-				class="fas fa-heart icon-heart text-danger"> by </i></span>
-				<a class="glow" href="#" target="_blank">Pankaj Panjwani</a></p>
+				style="color: #006400">This website is made by Akhil and Anshul</span>
+				</p>
        </footer>
 	</div>
 </body>
